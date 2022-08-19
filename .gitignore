@@ -1,5 +1,7 @@
 # Additional ignores
 .DS_Store
+SurfsUp_Challenge_starter_code.ipynb
+app.py2
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
